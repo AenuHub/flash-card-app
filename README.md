@@ -39,13 +39,7 @@ and a Tkinter GUI.
    python main.py
    ```
 
-2. **Interact with the app:**
-   - The English word is displayed first.
-   - After 3 seconds, the Turkish equivalent is revealed.
-   - Click "Yes" button if you know the word to add to your score.
-   - Click "No" button to skip to the next word.
-
-3. **Exit the app by closing the window.**
+2. **Exit the app by closing the window.**
 
 ## CSV File Format
 
